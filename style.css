@@ -336,3 +336,26 @@ form button:hover{
     margin-bottom: 22px;
 }
 
+/*============================================== FOOTER ======================================================*/
+
+@media only screen and (min/width: 600px){
+    #about{
+        width: 80%;
+        margin: auto;
+    }
+    .container{
+        width: 80%;
+        margin: auto;
+    }
+}
+
+@media only screen and (min/width: 600px){
+    #about{
+        width: 60%;
+        margin: auto;
+    }
+    .container{
+        width: 60%;
+        margin: auto;
+    }
+}
